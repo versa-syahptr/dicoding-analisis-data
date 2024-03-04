@@ -13,3 +13,6 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run main.py
 ```
+
+## Streamlit Cloud url
+[https://versa-syahptr-dicoding-analisis-data-dashboardmain-3j1vzv.streamlit.app/](https://versa-syahptr-dicoding-analisis-data-dashboardmain-3j1vzv.streamlit.app/)
